@@ -2,5 +2,4 @@
 This is a repo dedicated to follow the A2SV learning path starting from sorting algorithm up to sliding window.
 
 
-
-Lazy Vim Has been cinfigured successfully Horray!!
+Okay Back to the path.
