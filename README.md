@@ -6,3 +6,9 @@ This is a repo dedicated to follow the A2SV learning path starting from sorting 
 * Two Pointers
 * Sliding Window
 * Prefix Sum
+
+### Sorting
+* Insertion Sort
+* Selection Sort
+* Bubble Sort
+* Python Sort
