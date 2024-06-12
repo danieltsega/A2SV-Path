@@ -9,7 +9,7 @@ This is a repo dedicated to follow the A2SV learning path starting from sorting 
 * Prefix Sum
 
 ### Programming Basics
-
+Learning programming fundamentals starting from python upto logical problem solving skill.
 
 ### Sorting
 * Insertion Sort
