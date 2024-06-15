@@ -11,6 +11,8 @@ This is a repo dedicated to follow the A2SV learning path starting from sorting 
 ### Programming Basics
 Learning programming fundamentals starting from python upto logical problem solving skill. Several resources are included like youtube videos like code with mosh and others and blogs.
 
+TED-Ed animated series is alot help in developing logical thinking.
+
 ### Sorting
 * Insertion Sort
 * Selection Sort
